@@ -6,5 +6,10 @@ In this example, we will forward the audio to the HDMI.
 
 Make sure a correct antenna is attached to the FMComms2/3, while the bulan is designed in the same FOI (frequnecy of interest).
 
-![image](https://user-images.githubusercontent.com/29487339/195493340-fad36f28-8650-40e8-8675-c30029e676e0.png)
+# Demodulation Flow
+
+![image](https://user-images.githubusercontent.com/29487339/195495382-54e40ec4-d6ff-439c-8a40-add5b0d469f0.png)
+
+
+<img src="https://user-images.githubusercontent.com/29487339/195493340-fad36f28-8650-40e8-8675-c30029e676e0.png" style="height:75%; width:75%" >
 
