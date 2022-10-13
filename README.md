@@ -26,3 +26,10 @@ Make sure a correct antenna is attached to the FMComms2/3, while the bulan is de
 
 <img src="https://user-images.githubusercontent.com/29487339/195493340-fad36f28-8650-40e8-8675-c30029e676e0.png" style="height:85%; width:85%" >
 
+# How to change the default FM channel LO:
+
+![image](https://user-images.githubusercontent.com/29487339/195495976-98b5e455-007b-4d53-97e0-c24f7c4876c7.png)
+
+After changing the FM RX LO freq, you can go to the ini and update the lut.v accordingly.
+
+Enjoy~ =]
