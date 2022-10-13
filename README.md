@@ -6,6 +6,11 @@ In this example, we will forward the audio to the HDMI.
 
 Make sure a correct antenna is attached to the FMComms2/3, while the bulan is designed in the same FOI (frequnecy of interest).
 
+Well FM antenna is really long as lightsaber but put your lightsaber back and bright up the long wire.
+
+<img src="https://user-images.githubusercontent.com/29487339/195496986-1edbd5a5-fa80-444f-8531-4ca22ddbf127.png" style="height:25%; width:25%"><img src="https://user-images.githubusercontent.com/29487339/195497139-5c56471d-2630-41ca-9f9f-e0ed965cb44a.png" style="height:45%; width:45%">
+
+
 # Resources Usage
 
 | Res    | Usage | Total  | %          |
