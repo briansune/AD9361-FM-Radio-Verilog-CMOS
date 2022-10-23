@@ -1,4 +1,4 @@
-# AD9361-FM-Radio-Verilog
+# AD9361-FM-Radio-Verilog (Interface CMOS 12bit Full Port)
 
 This project demonstrate a simplest mono-FM demodulation.
 
